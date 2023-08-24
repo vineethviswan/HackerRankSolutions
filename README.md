@@ -1,4 +1,4 @@
-# HackerRankSolutions
+# HackerRank Solutions
 This repository contains the solutions to HackerRank problems.
 All programs are in C++. Compiled and tested using Visual Studio on Widnows. 
 
