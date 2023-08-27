@@ -9,4 +9,9 @@ All programs are in C++. Compiled and tested using Visual Studio on Widnows.
 3. [QHeap1](https://github.com/vineethviswan/HackerRankSolutions/blob/bed87c5ec4b5d4c26c171c606bd907b89b566684/QHeap1.cpp)
 4. [Tree Top View](https://github.com/vineethviswan/HackerRankSolutions/blob/bed87c5ec4b5d4c26c171c606bd907b89b566684/TreeTopView.cpp)
 5. [Level Order Traversal](https://github.com/vineethviswan/HackerRankSolutions/blob/bed87c5ec4b5d4c26c171c606bd907b89b566684/LevelOrderTraversal.cpp)
+6. [Binary Tree Height](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/BinaryTreeHeight.cpp)
+7. [Reverse Doubly Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/DoublyLinkedList-Reversal.cpp)
+8. [Insert an element in a Sorted Doubly Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/DoublyLinkedList-SortedInsert.cpp)
+9. [Lowest Common Ancestor of a Binary Tree](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/LowestCommonAncestor.cpp)
+10. [Reverse a Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/ReverseLinkedList.cpp)
 
