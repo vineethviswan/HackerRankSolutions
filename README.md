@@ -14,4 +14,10 @@ All programs are in C++. Compiled and tested using Visual Studio on Widnows.
 8. [Insert an element in a Sorted Doubly Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/DoublyLinkedList-SortedInsert.cpp)
 9. [Lowest Common Ancestor of a Binary Tree](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/LowestCommonAncestor.cpp)
 10. [Reverse a Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/25c097d17c97e3010ba601b1277c3e7ceb73e262/ReverseLinkedList.cpp)
+11. [2D Array](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/2DArrayDS.cpp)
+12. [Array Manipulation](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/ArrayManipulation.cpp)
+13. [Balanced Brackets](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/BalancedBrackets.cpp)
+14. [Poisonous Plants](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/PoisonousPlant.cpp)
+15. [Cycle Detection in Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/SinglyLinkedLists.cpp)
+    
 
