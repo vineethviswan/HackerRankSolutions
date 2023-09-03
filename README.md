@@ -19,5 +19,6 @@ All programs are in C++. Compiled and tested using Visual Studio on Widnows.
 13. [Balanced Brackets](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/BalancedBrackets.cpp)
 14. [Poisonous Plants](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/PoisonousPlant.cpp)
 15. [Cycle Detection in Linked List](https://github.com/vineethviswan/HackerRankSolutions/blob/eae0f10acd8d97fc0c389605e61f8c3af736c3c0/SinglyLinkedLists.cpp)
+16. [Huffman Coding](https://github.com/vineethviswan/HackerRankSolutions/blob/610acd5362f230a93f840f2528a511c43108b83f/HuffmanCoding.cpp)
     
 
