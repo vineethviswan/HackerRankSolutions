@@ -42,7 +42,7 @@ std::vector<long long> NGEonLeft(const std::vector<long long>& arr) {
 
 std::vector<long long> NGEonRight(const std::vector<long long>& arr) {
 
-	std::vector<long long> leftIndex(arr.size() + 1, 0);
+	std::vector<long long> rightIndex(arr.size() + 1, 0);
 	std::stack<long long> stk;
 
 	for (long long i = 0; i < arr.size(); ++i) {
@@ -50,11 +50,11 @@ std::vector<long long> NGEonRight(const std::vector<long long>& arr) {
 		while (!stk.empty() && arr[i] > arr[stk.top() - 1]) {
 			long long r = stk.top();
 			stk.pop();
-			leftIndex[r - 1] = i + 1;
+			rightIndex[r - 1] = i + 1;
 		}
 		stk.push(i + 1);
 	}
-	return leftIndex;
+	return rightIndex;
 }
 
 long long solve(const std::vector<long long>& arr) {
